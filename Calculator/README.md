@@ -26,6 +26,9 @@ If using Terminal:
 
 ## Example
 Enter your option(+ - * /): +
+<br>
 Enter your 1st number: 5
+<br>
 Enter your 2nd number: 3
+<br>
 Addition is: 8
